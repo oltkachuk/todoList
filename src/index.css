@@ -1,0 +1,14 @@
+.wrapper {
+    padding: 0.5 rem;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.btnDelete {
+    background: red;
+    border-radius: 50%;
+    border: none;
+}
+.done {
+    text-decoration: line-through
+}
